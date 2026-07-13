@@ -1,0 +1,1 @@
+$data modify storage windwaves_sea:npc root.temp.interaction.npc_name set from storage windwaves_sea:npc root.npc_entity."$(interaction_uuid)"

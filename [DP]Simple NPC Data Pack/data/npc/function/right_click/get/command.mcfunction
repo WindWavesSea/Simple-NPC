@@ -1,0 +1,1 @@
+$data modify storage windwaves_sea:npc root.temp.interaction.command set from storage windwaves_sea:npc root.npc_setting.$(npc_name).right_click.command

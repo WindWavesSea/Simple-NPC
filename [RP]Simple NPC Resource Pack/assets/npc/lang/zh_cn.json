@@ -1,0 +1,8 @@
+{
+    "npc.debug.text":"§e名称为%s的NPC配置§c出现问题§r，§f问题可能为",
+    "npc.debug.text.end.text":"§e你的配置没有问题! §b快去生成NPC吧~",
+    "npc.have_summon.text":"§c你已经生成了此NPC§r，§b请执行\n§r§e/function npc:remove/npc§r {name:\"%s\"}\n§e清除NPC",
+    "npc.not_summon.text":"§c此NPC暂未生成§r，§b请执行\n§r§e/function npc:summon§r {name:\"%s\"}\n§e生成NPC",
+    "npc.dont_have_setting.text":"§c你没有添加配置，请参考文档配置NPC或执行NPC配置函数！",
+    "npc.setting.right_click.text":"§cFunction和Command只能配置其中之一,请修改配置！"
+}

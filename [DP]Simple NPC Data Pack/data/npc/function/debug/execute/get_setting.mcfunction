@@ -1,0 +1,1 @@
+$data modify storage windwaves_sea:npc temp.debug.npc_setting_name set from storage windwaves_sea:npc root.npc_setting_list.not_custom_settings.[$(number)]

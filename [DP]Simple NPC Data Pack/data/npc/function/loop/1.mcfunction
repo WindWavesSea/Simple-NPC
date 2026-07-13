@@ -1,0 +1,1 @@
+$execute unless data entity @s {Rotation:[$(r1),$(r2)]} run rotate @s $(r1) $(r2)

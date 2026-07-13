@@ -1,0 +1,1 @@
+execute unless entity @s[tag=no_rotate] run function npc:loop/0
