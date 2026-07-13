@@ -11,10 +11,8 @@
 * 右键NPC运行指令或函数。
 
 ## Storage结构
-### 默认结构(不开启自定义配置)
 ![](https://cloud-photo.windwaves.top/Simple_NPC/storage1.png)
 
-### 自定义配置结构(开启自定义配置)
 ![](https://cloud-photo.windwaves.top/Simple_NPC/storage2.png)
 
 ### 示例storage
