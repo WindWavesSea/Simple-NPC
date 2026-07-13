@@ -1,4 +1,4 @@
-# 简单NPC
+[English](README_en.md) [简体中文](README.md)
 
 ## 序言
  此数据包使原版配置NPC更加简单，只需要写storage并执行生成函数即可配置一个属于你的NPC
