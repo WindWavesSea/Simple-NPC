@@ -1,10 +1,10 @@
 {
     "pack": {
         "description": [
-            {"text": "Simple NPC","color":"blue"}
-            {"text": "By WindWaves_Sea"}
+            {"text": "Simple NPC\n","color":"blue"},
+            {"text": "By WindWaves_Sea","color": "gold"}
         ],
-        "max_format":69,
-        "min_format":91
+        "max_format":91,
+        "min_format":69
     }
 }
