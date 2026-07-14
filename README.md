@@ -92,3 +92,8 @@ function npc:remove/setting {name:"name"}
 QQ群：117464315
 
 Github：https://github.com/WindWavesSea/Simple-NPC/
+
+## 鸣谢
+感谢NOX OBSCURA提供的交互实体大小, 使其可以贴合NPC碰撞箱
+
+感谢轩宇1725提供的storage检测思路，使字符串可以检测
