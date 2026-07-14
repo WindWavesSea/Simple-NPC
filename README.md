@@ -93,6 +93,8 @@ QQ群：117464315
 
 Github：https://github.com/WindWavesSea/Simple-NPC/
 
+Modrinth: https://modrinth.com/datapack/simple-npc/
+
 ## 鸣谢
 感谢[NOX OBSCURA](https://space.bilibili.com/1184771713)提供的交互实体大小, 使其可以贴合NPC碰撞箱
 
