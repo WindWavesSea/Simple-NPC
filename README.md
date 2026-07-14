@@ -94,6 +94,6 @@ QQ群：117464315
 Github：https://github.com/WindWavesSea/Simple-NPC/
 
 ## 鸣谢
-感谢NOX OBSCURA提供的交互实体大小, 使其可以贴合NPC碰撞箱
+感谢[NOX OBSCURA](https://space.bilibili.com/1184771713)提供的交互实体大小, 使其可以贴合NPC碰撞箱
 
-感谢轩宇1725提供的storage检测思路，使字符串可以检测
+感谢[轩宇1725](https://space.bilibili.com/104432208)提供的storage检测思路，使字符串可以检测
