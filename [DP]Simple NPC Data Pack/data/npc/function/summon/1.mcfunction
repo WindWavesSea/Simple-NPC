@@ -1,5 +1,7 @@
 $summon mannequin $(npc_x) $(npc_y) $(npc_z) $(npc_data)
 
+$execute positioned $(npc_x) $(npc_y) $(npc_z) as @n[type=mannequin,distance=..1] run team join windwaves_sea_npc @s
+
 $execute positioned $(npc_x) $(npc_y) $(npc_z) as @n[type=mannequin,distance=..1] run function npc:summon/tag_add/mannequin {npc_name:"$(npc_name)",npc_zone:"$(npc_zone)",npc_rotate:"$(npc_rotate)"}
 
 $summon text_display $(npc_text_x) $(npc_text_y) $(npc_text_z) $(npc_text_data)

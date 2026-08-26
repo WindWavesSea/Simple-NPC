@@ -10,6 +10,9 @@ $summon mannequin $(npc_x) $(npc_y) $(npc_z) {\
     Invulnerable:true\
 }
 
+$execute positioned $(npc_x) $(npc_y) $(npc_z) as @n[type=mannequin,distance=..1] run team join windwaves_sea_npc @s
+
+
 $summon text_display $(npc_text_x) $(npc_text_y) $(npc_text_z) {\
     text:$(npc_text),\
     shadow:false,\
