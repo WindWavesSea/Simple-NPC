@@ -108,3 +108,9 @@ function npc:remove/setting {name:"name"}
 QQ Group: 117464315
 
 GitHub: https://github.com/WindWavesSea/Simple-NPC/
+
+# Acknowledgements
+
+Special thanks to [NOX OBSCURA](https://space.bilibili.com/1184771713) for providing the interaction entity size solution, allowing interaction entities to properly match NPC hitboxes.
+
+Special thanks to [轩宇1725](https://space.bilibili.com/104432208) for providing the storage detection approach, enabling string-based detection.
